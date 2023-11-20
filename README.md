@@ -4,6 +4,10 @@ Car Price Prediction Dashboard
 Overview:
 The Car Price Prediction Dashboard is a data-driven project that aims to assist users in predicting and understanding the expected prices of cars based on various features. This project integrates data analysis, machine learning, and visualization techniques to provide insights into the factors influencing car prices.
 
+Embed link:
+https://app.powerbi.com/view?r=eyJrIjoiNTk4NWI2ZmUtMmFlMC00MjBlLWJiOTEtNzBlZTkwM2I2MmJmIiwidCI6ImYwZDBkNjE5LWRiMTAtNDA5ZC05ZDQ1LTMwNzZkMTdmMjFiMyJ9
+
+
 Features:
 Data Exploration: Explore a comprehensive dataset containing information about different car models, their specifications, and market prices.
 
